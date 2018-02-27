@@ -1,8 +1,7 @@
-package guru.springframework.spring5webapp.model;
+package guru.springframework.spring5webapp.models;
 
 import javax.persistence.*;
 import java.util.HashSet;
-import java.util.Objects;
 import java.util.Set;
 
 @Entity
